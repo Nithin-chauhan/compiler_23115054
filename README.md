@@ -86,7 +86,13 @@ if and while	Add control flow parsing
 📸 Screenshots
 Add screenshots of terminal output or generated TAC here.
 ![Screenshot 2025-04-06 152554](https://github.com/user-attachments/assets/b9242e17-9bb4-4b7f-b181-c5e6cf7e834f)
+### Nithin lavudya
 
+🎓 B.Tech CSE, NIT Raipur
+
+🌐 GitHub: Nithin-chauhan
+
+🔗 LinkedIn: Nithin Lavudya
 
 📜 License
 MIT License – Free to use, improve, or extend!
